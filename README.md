@@ -345,4 +345,4 @@ Everyone is permitted to copy and distribute copies of Summer CMS, but changing 
 
 [⬆ back to top](#table-of-contents-)
 
-<p align="center"><img src="https://github.com/ayumi-cloud/sc-parser-module/blob/master/src/assets/images/luv.png"></p>
+<p align="center"><img src="https://github.com/ayumi-cloud/sc-parser-module/blob/main/src/assets/images/luv.png"></p>
