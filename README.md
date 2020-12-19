@@ -55,6 +55,8 @@ The parser module can be used either in browser (client-side) or in Laravel php 
 
 ## Goals :soccer:
 
+<p align="center"><img src="https://github.com/ayumi-cloud/sc-parser-module/blob/main/src/assets/images/data.jpg"></p>
+
 This module aims to identify the following details:
 
 - Browser
@@ -82,9 +84,23 @@ This module aims to identify the following details:
 
 ## Privacy Issues :sparkles:
 
-The parser module follows strict privacy regulations set out in the GDPR, ePrivacy and California Consumer Privacy Act (CCPA). Allowing users to give full consent options set out by the [Legal module](https://github.com/ayumi-cloud/sc-legal-module). There are options to configure the data retention period and follows the data retention policy. The IP anonymization/masking takes place as soon as data is received by the parser module, before any storage or processing takes place.
+The parser module follows strict privacy regulations set out in the GDPR, ePrivacy and California Consumer Privacy Act (CCPA). 
+
+### Consent options
+
+The parser module allows users to give full consent options set out by the [Legal module](https://github.com/ayumi-cloud/sc-legal-module).
+
+### Data rentention
+
+There are options to configure the data retention period and the parser module follows the data retention policy.
+
+### IP anonymization (or IP masking)
+
+The IP anonymization/masking takes place as soon as data is received by the parser module, before any storage or processing takes place.
 
 <p align="center"><img src="https://github.com/ayumi-cloud/sc-parser-module/blob/main/src/assets/images/ip.png"></p>
+
+### Sensitive data
 
 The following personal data is considered **sensitive** and is subject to specific processing conditions:
 
@@ -95,6 +111,8 @@ The following personal data is considered **sensitive** and is subject to specif
 - Data concerning a person’s sex life or sexual orientation.
 
 (*) Currently the parser module doesn't collect any personal data is considered **sensitive** to be extra compliant to the rules.
+
+### Encryption
 
 Article 32 of the GDPR includes encryption as an example of an appropriate technical measure, depending on the nature and risks of your processing activities. Encryption is a widely-available measure with relatively low costs of implementation. The data processed by the parser module is encrypted before being stored.
 
