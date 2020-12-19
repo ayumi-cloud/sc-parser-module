@@ -82,6 +82,16 @@ This module aims to identify the following details:
 
 ## Privacy Issues :sparkles:
 
+The parser module follows strict privacy regulations set out in the GDPR, ePrivacy and California Consumer Privacy Act (CCPA). Allowing users to give full consent options set out by the [Legal module ](https://github.com/ayumi-cloud/sc-legal-module). There are options to configure the data retention period and follows the data retention policy. The IP anonymization/masking takes place as soon as data is received by the parser module, before any storage or processing takes place.
+
+<p align="center"><img src="https://github.com/ayumi-cloud/sc-parser-module/blob/main/src/assets/images/ip.png"></p>
+
+
+
+
+
+
+
 === TO DO ===
 
 
