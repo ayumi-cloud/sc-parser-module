@@ -110,7 +110,7 @@ The following personal data is considered **sensitive** and is subject to specif
 - Health-related data.
 - Data concerning a person’s sex life or sexual orientation.
 
-(*) Currently the parser module doesn't collect any personal data is considered **sensitive** to be extra compliant to the rules.
+(*) Currently the parser module doesn't collect any personal data that is considered **sensitive** to be extra compliant to the rules.
 
 ### Encryption
 
