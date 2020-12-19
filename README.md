@@ -51,17 +51,44 @@ Over years we have coded and created well over a hundred pull requests (under va
 
 ## Introduction ⭐
 
-=== TO DO ===
+The parser module can be used either in browser (client-side) or in Laravel php (server-side) environment. The parser module is used by other Summer CMS modules (such as the [Security module](https://github.com/ayumi-cloud/sc-security-module)) and in conjunction with custom Summer CMS API's to help process the data.
 
 ## Goals :soccer:
 
-The parser module makes it easier to create and manage with custom built tools for the following:
+This module aims to identify the following details:
 
-=== TO DO ===
+- Browser
+- Layout engine
+- Operating system
+- Device
+- Model
+- Brand
+- Platform
+- Architecture
+- Device pixel ratio (dpr)
+- Device memory
+- Viewport width
+- Geo location
+- Ip address
+- Internet service provider (isp)
+- Autonomous system number (asn)
+- Hostname
+- Host
+- Referer
+- Request
+- Time Zone
+
+(*) Note: The list above is not an extensive and complete list, it is intended to give a broad overview.
 
 ## Privacy Issues :sparkles:
 
 === TO DO ===
+
+
+
+
+
+
 
 ## Naming Prefix ✒️
 
