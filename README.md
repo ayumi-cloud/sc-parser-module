@@ -17,7 +17,7 @@
 - [Privacy Controls](#privacy-controls-sparkles)
 - [Naming Prefix](#naming-prefix-%EF%B8%8F)
 - [Requirements](#requirements-)
-- [Machine Learning](#machine-learning-computer)
+- [Big data](#machine-learning-computer)
 - [Citation](#citation-)
 - [API's](#apis-gem)
 - [Deprecations and removals](#deprecations-and-removals-)
@@ -51,42 +51,17 @@ Over years we have coded and created well over a hundred pull requests (under va
 
 ## Introduction ⭐
 
-There are lots of many mediocre projects trying to tackle this subject and use either insecure cookies or dont even pass ePrivacy and GDPR laws properly. Laravel is a wonderful framework and we have built all the tools directly into the Summer CMS framework for developers and webmasters to easily create all their parser web pages for their websites and apps. Everything is fully customizable and takes very little time to setup.
-
-The parser module has been fully optimized to work with `Desktop`, `Mobile`, `DPWA`, `PWA`, `AMP-HTML` and `AMP-HTML Stories`.
-
-(*) More platforms will be added in the near future.
+=== TO DO ===
 
 ## Goals :soccer:
 
 The parser module makes it easier to create and manage with custom built tools for the following:
 
-- 18 U.S.C. 2257 Compliance Notice
-- California Consumer Privacy Act (CCPA)
-- Cookie Policy
-- Copyright Notification
-- Copyscape Plagiarism Policy
-- Creative Commons License
-- Data Protection Officer (DPO)
-- Digital Millennium Copyright Act (DMCA)
-- ePrivacy
-- EU Representative
-- EU-U.S. Privacy Shield Frameworks
-- GDPR
-- Guidelines for Law Enforcement
-- Health Insurance Portability and Accountability Act (HIPAA)
-- Master Services Agreement (MSA)
-- Opt-In Policy
-- Opt-Out Policy
-- Privacy Policy
-- Push Notification Policy
-- Spam Abuse
-- Swiss-U.S. Privacy Shield Frameworks
-- Terms and Conditions
+=== TO DO ===
 
-## Privacy Controls :sparkles:
+## Privacy Issues :sparkles:
 
-This module allows the website / app's external users to have full control of their privacy policies giving them all the correct infomation and controls to adjust their settings they way they want. The developer is given easy to use tools to setup the privacy controls, using a simple wrapper method on sections of code they wish to allow the end-users to be able to control. Webmasters can setup their privacy in no time at all, without needing to write any code at all, using the module's custom tools and be able to preview everything in the backend, without needing to switch to the frontend to preview the end result.
+=== TO DO ===
 
 ## Naming Prefix ✒️
 
@@ -98,9 +73,9 @@ This module has been optimized to work with php `7.4.x` and `8.x` versions - we 
 
 **A full list of requirements to install Summer CMS, can be found here: [Summer CMS Requirements](https://github.com/ayumi-cloud/sc-main/blob/main/README.md#requirements-).**
 
-## Machine Learning :computer:
+## Big data 📊
 
-This module uses machine learning to help speed up creating the parser pages for your website / app and uses custom json datasets.
+This module uses several Big Data tool sets to analyze large amounts of data collected from various Big Data sources to help detect and categorize. Some database sizes are in the petabytes and takes a few hours to run and process some models. These models are then used in our tests to improve the parsers detection rate. We also have various non-disclosed test severs running to gather various data and run tests to process the test data. This process helps us to build a more accurate parser module and helps to speed up the build process. We fully rely on using large amounts of data to build an accurate working parser used by some of the other Summer CMS modules!
 
 ## Citation 📚
 
@@ -112,19 +87,32 @@ If you use this parser module for your research, then kindly cite it. Click the 
 
 ## API's 💎
 
-Below are some of the API's the parser modules uses (this is not a complete list):
+Below are some of the API's the parser module uses (this is not a complete list):
 
 - [Trusted Types](https://w3c.github.io/webappsec-trusted-types/dist/spec/)
-- [MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)
-- [Intersection Observer](https://www.w3.org/TR/intersection-observer/)
-- [Accessible Rich Internet Applications WAI-ARIA 1.2](https://www.w3.org/TR/wai-aria-1.2/)
-- [Native Lazy loading](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading)
 - [Content Security Policy Level 3](https://www.w3.org/TR/CSP3/)
-- [Permissions Policy](https://w3c.github.io/webappsec-permissions-policy/)
-- [Transparency and Consent Framework (TCF) v2.0](https://iabeurope.eu/tcf-2-0/)
-- [GDPR Spec](https://gdpr-info.eu/)
-- [ePrivacy Spec](https://edpb.europa.eu/our-work-tools/our-documents/topic/e-privacy-regulation_en)
-- [California Consumer Privacy Act Spec](https://oag.ca.gov/privacy/ccpa)
+- [Content-Security-Policy-Report-Only](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy-Report-Only)
+- [CSP: report-to](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/report-to)
+- [CSP: trusted-types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/trusted-types)
+- [User-Agent Client Hints](https://wicg.github.io/ua-client-hints/)
+- [Accept-CH](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-CH)
+- [Accept-CH Lifetime](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-CH-Lifetime)
+- [Accept-Charset](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Charset)
+- [Accept-Language](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Language)
+- [Access-Control-Allow-Credentials](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Credentials)
+- [Access-Control-Allow-Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Headers)
+- [Access-Control-Allow-Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Methods)
+- [Access-Control-Allow-Origin](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Origin)
+- [Alt-Svc](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Alt-Svc)
+- [Cache-Control](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control)
+- [Device-Memory](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Device-Memory)
+- [DNT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/DNT)
+- [DPR](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/DPR)
+- [Expect-CT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Expect-CT)
+- [Save-Data](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Save-Data)
+- [User-Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent)
+- [Vary](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Vary)
+- [ETag](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/ETag)
 
 ## Deprecations and removals ⛔
 
@@ -138,10 +126,6 @@ The parser module has been optimized to work with CSP 3 and allow backwards comp
 - [Laravel Framework](https://github.com/laravel/framework)
 
 **Installed version**: 6.0 or greater (Summer CMS uses latest LTS version).
-
-- [HTMLPurifier for Laravel](https://github.com/mewebstudio/Purifier)
-
-**Installed version**: 3.0 or greater.
 
 ## Enhancements ⭐
 
