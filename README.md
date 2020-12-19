@@ -49,11 +49,11 @@ This project is completely transparent and honest, before we started we contacte
 
 Over years we have coded and created well over a hundred pull requests (under various github accounts) which have been merged to the October core, we have never asked or recevived any money for any of the pull requests. We use the cms for professional purposes and therefore it is beneficial for our companies to have a professional working solution to give to our end-users and clients. In order for us to delivery a high quality product we made the discussion to update the cms with new and exciting features and modernize old and existing features, there are breaking change!
 
+<p align="center"><img src="https://github.com/ayumi-cloud/sc-parser-module/blob/main/src/assets/images/data.jpg"></p>
+
 ## Introduction ⭐
 
 The parser module can be used either in browser (client-side) or in Laravel php (server-side) environment. The parser module is used by other Summer CMS modules (such as the [Security module](https://github.com/ayumi-cloud/sc-security-module)) and in conjunction with custom Summer CMS API's to help process the data.
-
-<p align="center"><img src="https://github.com/ayumi-cloud/sc-parser-module/blob/main/src/assets/images/data.jpg"></p>
 
 ## Goals :soccer:
 
