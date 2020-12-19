@@ -369,7 +369,7 @@ $ tools/php-cs-fixer/vendor/bin/php-cs-fixer fix src
 
 The Parser module uses the following:
 
-- A [PHPUnit](https://phpunit.de) test suite
+- A [PHPUnit](https://phpunit.de) test suite.
 - A coding style compliance test suite using [PHP CS Fixer](http://cs.sensiolabs.org/).
 - A code analysis compliance test suite using [PHPStan](https://github.com/phpstan/phpstan).
 
