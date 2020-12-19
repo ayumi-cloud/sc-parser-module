@@ -53,9 +53,9 @@ Over years we have coded and created well over a hundred pull requests (under va
 
 The parser module can be used either in browser (client-side) or in Laravel php (server-side) environment. The parser module is used by other Summer CMS modules (such as the [Security module](https://github.com/ayumi-cloud/sc-security-module)) and in conjunction with custom Summer CMS API's to help process the data.
 
-## Goals :soccer:
-
 <p align="center"><img src="https://github.com/ayumi-cloud/sc-parser-module/blob/main/src/assets/images/data.jpg"></p>
+
+## Goals :soccer:
 
 This module aims to identify the following details:
 
