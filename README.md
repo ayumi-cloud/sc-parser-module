@@ -17,7 +17,7 @@
 - [Privacy Controls](#privacy-controls-sparkles)
 - [Naming Prefix](#naming-prefix-%EF%B8%8F)
 - [Requirements](#requirements-)
-- [Big data](#machine-learning-computer)
+- [Big data](#big-data-)
 - [Citation](#citation-)
 - [API's](#apis-gem)
 - [Deprecations and removals](#deprecations-and-removals-)
