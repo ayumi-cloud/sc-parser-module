@@ -82,23 +82,21 @@ This module aims to identify the following details:
 
 ## Privacy Issues :sparkles:
 
-The parser module follows strict privacy regulations set out in the GDPR, ePrivacy and California Consumer Privacy Act (CCPA). Allowing users to give full consent options set out by the [Legal module ](https://github.com/ayumi-cloud/sc-legal-module). There are options to configure the data retention period and follows the data retention policy. The IP anonymization/masking takes place as soon as data is received by the parser module, before any storage or processing takes place.
+The parser module follows strict privacy regulations set out in the GDPR, ePrivacy and California Consumer Privacy Act (CCPA). Allowing users to give full consent options set out by the [Legal module](https://github.com/ayumi-cloud/sc-legal-module). There are options to configure the data retention period and follows the data retention policy. The IP anonymization/masking takes place as soon as data is received by the parser module, before any storage or processing takes place.
 
 <p align="center"><img src="https://github.com/ayumi-cloud/sc-parser-module/blob/main/src/assets/images/ip.png"></p>
 
+The following personal data is considered **sensitive** and is subject to specific processing conditions:
 
+- Personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs.
+- Trade-union membership.
+- Genetic data, biometric data processed solely to identify a human being.
+- Health-related data.
+- Data concerning a person’s sex life or sexual orientation.
 
+(*) Currently the parser module doesn't collect any personal data is considered **sensitive** to be extra compliant to the rules.
 
-
-
-
-=== TO DO ===
-
-
-
-
-
-
+Article 32 of the GDPR includes encryption as an example of an appropriate technical measure, depending on the nature and risks of your processing activities. Encryption is a widely-available measure with relatively low costs of implementation. The data processed by the parser module is encrypted before being stored.
 
 ## Naming Prefix ✒️
 
