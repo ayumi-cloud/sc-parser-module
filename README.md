@@ -45,6 +45,7 @@
 - [PHP Coding Standards Fixer](#php-coding-standards-fixer-)
     - [Installation](#installation-)
     - [Usage](#usage-)
+    - [Testing](#testing-%EF%B8%8F)
 - [Semantic Versioning](#semantic-versioning-)
 - [Copyright and License](#copyright-and-license-)
 
