@@ -20,6 +20,7 @@
     - [IP anonymization (or IP masking)](#ip-anonymization-or-ip-masking-)
     - [Sensitive data](#sensitive-data-)
     - [Encryption](#encryption-)
+- [Vanilla Code](#vanilla-code-)
 - [Naming Prefix](#naming-prefix-%EF%B8%8F)
 - [Requirements](#requirements-)
 - [Big data](#big-data-)
@@ -120,6 +121,16 @@ The following personal data is considered **sensitive** and is subject to specif
 ### Encryption 🔒
 
 Article 32 of the GDPR includes encryption as an example of an appropriate technical measure, depending on the nature and risks of your processing activities. Encryption is a widely-available measure with relatively low costs of implementation. The data processed by the parser module is encrypted before being stored.
+
+<p align="center"><img src="https://github.com/ayumi-cloud/sc-parser-module/blob/main/src/assets/images/vanilla.jpg"></p>
+
+## Vanilla Code 🍦
+
+Vanilla often refers to **pure** or **plain**. So in terms of programming languages, it means either without the use of **3rd party libraries** or without the use of **frameworks**.
+
+The `core` files and `modules` in Summer CMS use `Laravel`, an open-source PHP web framework. However, all the styling, javascript and data interchange formats have been written using `vanilla` code. This makes upgrading the code **quick** and **simple** without the constraints of relying solely on a single library or framework! Plus reducing the code size and optimizing the performance by reducing the overheads of loading third-party libraries (such as jQuery as an example). Summer CMS treats all third-party libraries and frameworks as optional extras and developers are welcome to use any of them to enhance their websites and applications using Summer CMS.
+
+The [framework module](https://github.com/ayumi-cloud/sc-framework-module) adds bridges and interconnects different frameworks to Summer CMS with ease to give a customized experience for each framework!
 
 ## Naming Prefix ✒️
 
